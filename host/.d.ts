@@ -1,0 +1,5 @@
+declare module 'left/Left'
+declare module 'right/Right'
+declare module 'info/Info'
+declare module 'right/HomeView'
+declare module 'right/AboutView'
